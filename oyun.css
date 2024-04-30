@@ -1,0 +1,13 @@
+/* Tüm HTML elementlerine varsayılan margin ve padding değerlerini sıfırla,
+   box modelini border-box olarak ayarla */
+   * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Sayfa içeriğinin body elementinin sınırlarından taşmasını engelle */
+  body {
+    overflow: hidden;
+  }
+  
