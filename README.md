@@ -1,5 +1,13 @@
 # MONSTER-GAME
 JavaScript ile Oyun
+Komutlar: 
+Sağ ok tuşuna basıldığında player ileriye hareket eder.
+Sol ok tuşuna basıldığında player'ı geriye hareket ettir.
+Yukarı ok tuşuna basıldığında player yukarı zıplar.
+Ctrl + S veya Command + S tuş kombinasyonu kontrolü: Belirli bir hızlanma miktarıyla playerın hızını arttırır. 
+Ctrl + ı veya Command + ı player bir süre hava da asılı kalır
+
+
 
 <img width="1582" alt="Ekran Resmi 2024-04-30 18 42 24" src="https://github.com/haticenuryalman/MONSTER-GAME/assets/92757117/c428988d-272a-417f-b9b7-bbe1043bdfd6">
 <img width="1582" alt="Ekran Resmi 2024-04-30 18 42 30" src="https://github.com/haticenuryalman/MONSTER-GAME/assets/92757117/dde3b67b-0aa4-4de5-859f-06a9472a3483">
