@@ -1,5 +1,6 @@
 # MONSTER-GAME
 JavaScript ile Oyun
+Oyunumuzdaki karakter "egg" canavarlardan kaçarak evine ulaşmak istemektedir. "Egg" her canavarı geçtiğinde +25 puan kazanmaktadır.
 Komutlar: 
 Sağ ok tuşuna basıldığında player ileriye hareket eder.
 Sol ok tuşuna basıldığında player'ı geriye hareket ettir.
